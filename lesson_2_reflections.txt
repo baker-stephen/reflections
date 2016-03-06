@@ -1,0 +1,9 @@
+#1
+Initializing a new repository doesn't do much other than create a .git
+directory, yet it is absolutely necessary to do so before you make any
+commits or track any changes. You can't use git at all until a repo is
+initialized.
+#2
+The staging area offers a step to analyze the commit you are about to
+make, whereas a working directory or repository will show the commits
+you have already made.
