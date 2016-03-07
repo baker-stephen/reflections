@@ -7,3 +7,13 @@ initialized.
 The staging area offers a step to analyze the commit you are about to
 make, whereas a working directory or repository will show the commits
 you have already made.
+#3
+Adding certain files to the staging area makes sure you have one commit
+per logical change if you use git status. Carefully analyze how much of
+a change you have made, and whether or not the files you have entered
+merit a seperate commit.
+#4
+I envision branches as being incredibly useful when performing
+experimental tests or perhaps creating a version of a project designed
+for a different platform, where all the basic mechanics remain the
+same, but the layout changes.
