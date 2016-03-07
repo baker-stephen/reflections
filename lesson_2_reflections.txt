@@ -17,3 +17,15 @@ I envision branches as being incredibly useful when performing
 experimental tests or perhaps creating a version of a project designed
 for a different platform, where all the basic mechanics remain the
 same, but the layout changes.
+#5
+A diagram of branch structure can be useful for visualization purposes,
+and aid in the organization of your repository. It can also help if
+you're having difficulty remembering when you made a certain change, or
+if another member of the group has been making changes to a particular
+branch.
+#6
+Merging the two branches together results in the master branch being
+"augmented" by the changes made in the coins branch, adding the lines
+that were added to the mutual parent of both tips, and subtracting the
+lines that were taken out by one of the tips from the mutual parent.
+It makes sense if you don't overthink it.
