@@ -29,3 +29,9 @@ Merging the two branches together results in the master branch being
 that were added to the mutual parent of both tips, and subtracting the
 lines that were taken out by one of the tips from the mutual parent.
 It makes sense if you don't overthink it.
+#7
+Gits automatic merging is a wonder to behold. It saves programmers a
+considerable amount of time and effort doing a menial job perfect for a
+computer. And when the computer is uncertain, it conveniently shows the
+programmer where the potential conflict lies so that the programmer can
+easily identify how to proceed.
