@@ -1,3 +1,7 @@
 #1
-Using a remote repository is especially useful when sharing work or collaborating with others. If, instead, you'd like to keep the work to
+Using a remote repository is especially useful when sharing work or
+collaborating with others. If, instead, you'd like to keep the work to
 yourself, keeping the work local would be the best option.
+#2
+Pulling changes manually keeps unnecesary commits from landing on your
+computer and clogging up the works.
