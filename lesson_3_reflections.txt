@@ -5,3 +5,9 @@ yourself, keeping the work local would be the best option.
 #2
 Pulling changes manually keeps unnecesary commits from landing on your
 computer and clogging up the works.
+#3
+A fork is like copying another repository on GitHub onto your own
+account. Cloning a repository is where you copy it local to local or
+web to local. A branch is used in the repository itself, for a number of
+useful things. It's a copy of whichever branch it has been branched
+from, and does not affect any other branch unless merged.
