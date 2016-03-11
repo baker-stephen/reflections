@@ -19,3 +19,8 @@ you're not too far behind when you get back into internet access.
 Collaboration without Git or GitHub would be tedious and time-consuming.
 It would require that each person looked for changes to other people's
 code by hand, and thusly mistakes would be aplenty.
+#6
+Making changes in a seperate branch is helpful when doing something
+experimental or has a high probability to break or malfunction. The
+master brach should be filled with only working, polished code that
+will not fail.
