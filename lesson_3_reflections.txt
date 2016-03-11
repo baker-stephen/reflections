@@ -15,3 +15,7 @@ from, and does not affect any other branch unless merged.
 Having a copy of the last known state of the remote stored locally lets
 you view all recent changes and possibly implement them. This way
 you're not too far behind when you get back into internet access.
+#5
+Collaboration without Git or GitHub would be tedious and time-consuming.
+It would require that each person looked for changes to other people's
+code by hand, and thusly mistakes would be aplenty.
