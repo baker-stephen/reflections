@@ -11,3 +11,7 @@ account. Cloning a repository is where you copy it local to local or
 web to local. A branch is used in the repository itself, for a number of
 useful things. It's a copy of whichever branch it has been branched
 from, and does not affect any other branch unless merged.
+#4
+Having a copy of the last known state of the remote stored locally lets
+you view all recent changes and possibly implement them. This way
+you're not too far behind when you get back into internet access.
